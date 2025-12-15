@@ -2,10 +2,13 @@
 <h1 align="center">👨‍💻 Hi, I'm Kevin Agyeman</h1>
 
 <p align="center">
-  A Passionate Developer Exploring Innovative Tech Solutions
+  Working to become a better developer by building real projects
 </p>
 
 <p align="center">
+  <a href="https://www.kevinagyeman.com">
+    <img src="https://img.shields.io/badge/kevinagyeman.com-black?style=for-the-badge" alt="kevinagyeman.com" />
+  </a>
   <a href="https://it.linkedin.com/in/kevinagyeman">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
