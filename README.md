@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👨‍💻 Hi, I'm Kevin Agyeman</h1>
+<h1 align="center">Hi, I'm Kevin Agyeman 🚀</h1>
 
 <p align="center">
   Working to become a better developer by building real projects
@@ -8,13 +8,11 @@
 <p align="center">
   <a href="https://www.kevinagyeman.com">
     <img src="https://img.shields.io/badge/kevinagyeman.com-black?style=for-the-badge" alt="kevinagyeman.com" />
-  </a>
+  </a>  
   <a href="https://it.linkedin.com/in/kevinagyeman">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
 
 ## 🛠 Technologies &amp; Tools
 
@@ -34,8 +32,6 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -49,13 +45,14 @@
     alt="Top Languages" 
     height="165"
   />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinagyeman&theme=2077"
+    alt="GitHub profile summary for Kevin Agyeman"
+  />
 </p>
-
----
 
 ## 🧩 About Me
 
-- 🔭 Currently working on: YOUR_CURRENT_PROJECTS  
 - 🌱 Learning: AI/ML, Frontend, Backend  
 - 💬 Ask me about: TypeScript, React, Python, Docker, cloud, and AI projects  
 - 📫 How to reach me: kevinagyemann@gmail.com 
