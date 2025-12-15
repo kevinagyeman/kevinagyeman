@@ -1,62 +1,62 @@
-# Kevin Agyeman
+<!-- Profile Header -->
+<h1 align="center">👨‍💻 Hi, I'm Kevin Agyeman</h1>
 
-Full‑stack developer building reliable, user‑focused solutions.
+<p align="center">
+  A Passionate Developer Exploring Innovative Tech Solutions
+</p>
 
----
-
-## Connect
-
-- LinkedIn: [View profile](https://it.linkedin.com/in/kevinagyeman)
-
----
-
-## Technologies
-
-**Languages**
-
-- Python  
-- JavaScript  
-- TypeScript  
-
-**Frontend**
-
-- React  
-- Angular
-
-**Backend & Data**
-
-- Node.js  
-- PostgreSQL
-
-**Cloud & DevOps**
-
-- Docker  
+<p align="center">
+  <a href="[YOUR_LINKEDIN_URL](https://it.linkedin.com/in/kevinagyeman)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## GitHub Activity
+## 🛠 Technologies &amp; Tools
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=kevinagyeman&show_icons=true&theme=default&count_private=true"
-        alt="GitHub stats for Kevin Agyeman"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinagyeman&layout=compact&theme=default"
-        alt="Most used languages"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Backend / Databases -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
+  <!-- DevOps / Cloud -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42F6?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
 
 ---
 
-## About
+## 📊 GitHub Stats
 
-- Learning: AI/ML, Frontend, Backend  
-- Interested in: TypeScript, React, Python, cloud infrastructure, and AI‑powered products  
-- Contact: kevinagyemann@fmail.com  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kevinagyeman&show_icons=true&theme=radical&count_private=true" 
+    alt="Kevin Agyeman GitHub Stats" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinagyeman&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    height="165"
+  />
+</p>
+
+---
+
+## 🧩 About Me
+
+- 🔭 Currently working on: YOUR_CURRENT_PROJECTS  
+- 🌱 Learning: AI/ML, Frontend, Backend  
+- 💬 Ask me about: TypeScript, React, Python, Docker, cloud, and AI projects  
+- 📫 How to reach me: kevinagyemann@gmail.com 
